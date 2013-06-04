@@ -8,7 +8,7 @@ gem 'rails', '3.2.13'
 gem 'mongo_mapper'
 gem 'bson_ext'
 gem 'mm-devise'
-gem 'activeadmin-mongomapper', github: 'kyanny/activeadmin-mongomapper', ref: 'mongo_mapper-0.12.0'
+gem 'activeadmin-mongomapper', git: '../activeadmin-mongomapper', ref: 'mongo_mapper-0.12.0'
 
 # Gems used only for assets and not required
 # in production environments by default.

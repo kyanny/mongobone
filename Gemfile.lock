@@ -1,6 +1,6 @@
 GIT
-  remote: git://github.com/kyanny/activeadmin-mongomapper.git
-  revision: 2946c36cf7446b9fb8b1e964678629bd76e08ec7
+  remote: ../activeadmin-mongomapper
+  revision: 95263ca0e5e2053291ab85c37106cdfd59f74243
   ref: mongo_mapper-0.12.0
   specs:
     activeadmin-mongomapper (0.0.1)
